@@ -36,7 +36,6 @@ Eterna is a **hybrid perpetual futures exchange** that connects CEX liquidity (B
 | **Deep Liquidity** | Direct integration with global CEX order books |
 | **AI-Native** | Built from the ground up for agents and algorithms |
 | **Wallet Auth** | Connect with your wallet — no accounts, no emails |
-| **Non-Custodial** | Your keys, your funds |
 
 Users connect with their wallet and receive a dedicated trading sub-account, enabling seamless trading while maintaining decentralization.
 
